@@ -1,0 +1,13 @@
+{
+    "cf_crime": 1.75,
+    "crimeprc": 45,
+    "kd_coin": 2,
+    "kd_work": 15,
+    "maxcoin": 1800,
+    "maxcrime": 3500,
+    "maxwork": 2400,
+    "mincoin": 500,
+    "mincrime": 0,
+    "minwork": 1800,
+    "prefix": "!" 
+}
